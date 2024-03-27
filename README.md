@@ -1,8 +1,5 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
-## insightscapehub-frontend
-Welcome to InsightScapeHub, your central platform for data analysis and insights. InsightScapeHub empowers users to explore, analyze, and visualize their datasets with advanced tools and techniques. Whether you're a data scientist, analyst, or business user, InsightScapeHub provides the tools you need to unlock valuable insights from your data.
-
 ## Getting Started
 
 First, run the development server:
